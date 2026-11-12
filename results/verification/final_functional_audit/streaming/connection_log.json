@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-11-12T08:44:27.829705+00:00",
+    "event": "START_STREAMING",
+    "status": "CONNECTING",
+    "details": "Connecting to https://biquote.io/hubs/tick"
+  },
+  {
+    "timestamp": "2026-11-12T08:44:29.069595+00:00",
+    "event": "CONNECTED",
+    "status": "CONNECTED",
+    "details": "Subscribing to [[\"XAUUSD\"]]"
+  },
+  {
+    "timestamp": "2026-11-12T08:45:27.842949+00:00",
+    "event": "STOP_STREAMING",
+    "status": "DISCONNECTED",
+    "details": "Streaming stopped gracefully."
+  }
+]

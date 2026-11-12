@@ -1,0 +1,14 @@
+[
+  {
+    "signal_id": "37a6b4be-30c1-4de2-bd7f-aca19666ac5b",
+    "timestamp": "2026-11-12T09:19:47.181046+00:00",
+    "symbol": "XAU/USD",
+    "direction": "BUY",
+    "limit_price": 3980.0,
+    "stop_loss": 3970.0,
+    "take_profit": 4000.0,
+    "confidence": 91.0,
+    "efficiency": 92.0,
+    "model_version": "v1.0"
+  }
+]

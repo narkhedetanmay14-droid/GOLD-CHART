@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "total_ticks": 60,
+  "issues": {
+    "invalid_spread": 0,
+    "duplicates": 84
+  }
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "order_id": "37a6b4be-30c1-4de2-bd7f-aca19666ac5b",
+    "symbol": "XAU/USD",
+    "direction": "BUY",
+    "limit_price": 3980.0,
+    "stop_loss": 3970.0,
+    "take_profit": 4000.0,
+    "placed_at": 1794475187.1811426,
+    "expires_at": 1794475367.1811428,
+    "status": "PENDING"
+  }
+]

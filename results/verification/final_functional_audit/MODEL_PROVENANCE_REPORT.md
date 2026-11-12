@@ -1,0 +1,12 @@
+# Model Provenance Audit Report
+- **Status:** `PASS`
+- **Trained Models:**
+- confidence_calibrator.joblib (Metadata verified: confidence_calibrator_metadata.json)
+- direction_classifier.joblib (Metadata verified: direction_classifier_metadata.json)
+- efficiency_forecaster.joblib (Metadata verified: efficiency_forecaster_metadata.json)
+- extra_trees.joblib (Metadata verified: extra_trees_metadata.json)
+- hist_gradient_boosting.joblib (Metadata verified: hist_gradient_boosting_metadata.json)
+- limit_time_model.joblib (Metadata verified: limit_time_model_metadata.json)
+- limit_touch_model.joblib (Metadata verified: limit_touch_model_metadata.json)
+- logistic_regression.joblib (Metadata verified: logistic_regression_metadata.json)
+- random_forest.joblib (Metadata verified: random_forest_metadata.json)

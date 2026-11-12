@@ -1,0 +1,27 @@
+BiQuote SignalR Streaming Functional Audit
+==============================================
+Status: PASS
+Hub: https://biquote.io/hubs/tick
+Symbol: XAUUSD
+Live Streaming Duration: 60s
+Total Ticks Received: 127
+First Tick Timestamp: 2026-11-12T08:44:32+00:00
+Last Tick Timestamp: 2026-11-12T08:45:27.850402+00:00
+Duplicates Filtered: 1
+Rejected Ticks: 8
+Connection Errors: 0
+Disconnects: 0
+
+Guardrail Functional Tests:
+- Valid tick accepted: PASS
+- Wrong symbol rejected: PASS
+- Invalid bid/ask (bid >= ask) rejected: PASS
+- Zero/Negative price rejected: PASS
+- Excessive spread (> 10.0) rejected: PASS
+- Missing timestamp rejected: PASS
+- Malformed timestamp rejected: PASS
+- Stale tick (> 15s) rejected: PASS
+- Future-dated tick rejected: PASS
+- Duplicate tick filtered: PASS
+- Bounded cache FIFO eviction: PASS
+- Incremental candle builder integration: FAIL

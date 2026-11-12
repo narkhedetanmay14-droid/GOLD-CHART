@@ -1,0 +1,14 @@
+{
+  "model_type": "confidence_calibrator_sigmoid",
+  "method": "sigmoid_platt_scaling",
+  "features": [
+    "raw_model_confidence"
+  ],
+  "train_rows": 176,
+  "val_ece": 0.013524473766356036,
+  "test_ece": 0.21648715552404904,
+  "test_brier_score": 0.2892839403043982,
+  "calibration_evidence": "Calibrated against actual target-before-stop outcomes",
+  "model_name": "confidence_calibrator",
+  "stage": "validated"
+}

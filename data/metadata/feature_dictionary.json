@@ -1,0 +1,254 @@
+{
+  "openTime": {
+    "dtype": "str",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature openTime computed for XAU/USD"
+  },
+  "open": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature open computed for XAU/USD"
+  },
+  "high": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature high computed for XAU/USD"
+  },
+  "low": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature low computed for XAU/USD"
+  },
+  "close": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature close computed for XAU/USD"
+  },
+  "volume": {
+    "dtype": "int64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature volume computed for XAU/USD"
+  },
+  "tickVolume": {
+    "dtype": "int64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature tickVolume computed for XAU/USD"
+  },
+  "isOpen": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature isOpen computed for XAU/USD"
+  },
+  "timestamp": {
+    "dtype": "datetime64[us, UTC]",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature timestamp computed for XAU/USD"
+  },
+  "ema_9": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature ema_9 computed for XAU/USD"
+  },
+  "ema_21": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature ema_21 computed for XAU/USD"
+  },
+  "ema_50": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature ema_50 computed for XAU/USD"
+  },
+  "ema_200": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature ema_200 computed for XAU/USD"
+  },
+  "sma_20": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature sma_20 computed for XAU/USD"
+  },
+  "sma_50": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature sma_50 computed for XAU/USD"
+  },
+  "rsi_14": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature rsi_14 computed for XAU/USD"
+  },
+  "macd": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature macd computed for XAU/USD"
+  },
+  "macd_signal": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature macd_signal computed for XAU/USD"
+  },
+  "macd_hist": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature macd_hist computed for XAU/USD"
+  },
+  "atr_14": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature atr_14 computed for XAU/USD"
+  },
+  "bb_upper": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature bb_upper computed for XAU/USD"
+  },
+  "bb_lower": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature bb_lower computed for XAU/USD"
+  },
+  "bb_width": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature bb_width computed for XAU/USD"
+  },
+  "roc_10": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature roc_10 computed for XAU/USD"
+  },
+  "stoch_k": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature stoch_k computed for XAU/USD"
+  },
+  "stoch_d": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature stoch_d computed for XAU/USD"
+  },
+  "swing_high": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature swing_high computed for XAU/USD"
+  },
+  "swing_low": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature swing_low computed for XAU/USD"
+  },
+  "bos_bullish": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature bos_bullish computed for XAU/USD"
+  },
+  "bos_bearish": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature bos_bearish computed for XAU/USD"
+  },
+  "choch_bullish": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature choch_bullish computed for XAU/USD"
+  },
+  "choch_bearish": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature choch_bearish computed for XAU/USD"
+  },
+  "trend_state": {
+    "dtype": "int64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature trend_state computed for XAU/USD"
+  },
+  "fvg_bullish": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature fvg_bullish computed for XAU/USD"
+  },
+  "fvg_bearish": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature fvg_bearish computed for XAU/USD"
+  },
+  "sweep_high": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature sweep_high computed for XAU/USD"
+  },
+  "sweep_low": {
+    "dtype": "bool",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature sweep_low computed for XAU/USD"
+  },
+  "body_size": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature body_size computed for XAU/USD"
+  },
+  "candle_range": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature candle_range computed for XAU/USD"
+  },
+  "upper_wick": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature upper_wick computed for XAU/USD"
+  },
+  "lower_wick": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature lower_wick computed for XAU/USD"
+  },
+  "body_ratio": {
+    "dtype": "float64",
+    "null_count": 0,
+    "inference_safe": true,
+    "description": "Feature body_ratio computed for XAU/USD"
+  }
+}

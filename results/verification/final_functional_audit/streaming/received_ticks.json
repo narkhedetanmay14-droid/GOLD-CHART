@@ -1,0 +1,1145 @@
+[
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.821,
+    "ask": 3941.989,
+    "mid": 3941.905,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:32+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.61,
+    "ask": 3941.778,
+    "mid": 3941.694,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:33+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.719,
+    "ask": 3941.887,
+    "mid": 3941.803,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:33+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.61,
+    "ask": 3941.778,
+    "mid": 3941.694,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:34+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.608,
+    "ask": 3941.776,
+    "mid": 3941.692,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:35+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.487,
+    "ask": 3941.655,
+    "mid": 3941.571,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:35+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.458,
+    "ask": 3941.626,
+    "mid": 3941.542,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:36+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.4,
+    "ask": 3941.568,
+    "mid": 3941.484,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:36+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.38,
+    "ask": 3941.548,
+    "mid": 3941.464,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:37+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.399,
+    "ask": 3941.567,
+    "mid": 3941.483,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:38+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.463,
+    "ask": 3941.631,
+    "mid": 3941.547,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:39+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.675,
+    "ask": 3941.843,
+    "mid": 3941.759,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:39+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.778,
+    "ask": 3941.946,
+    "mid": 3941.862,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:39+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.726,
+    "ask": 3941.894,
+    "mid": 3941.81,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:40+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.668,
+    "ask": 3941.836,
+    "mid": 3941.752,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:40+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.829,
+    "ask": 3941.997,
+    "mid": 3941.913,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:41+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.827,
+    "ask": 3941.995,
+    "mid": 3941.911,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:42+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.677,
+    "ask": 3941.845,
+    "mid": 3941.761,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:42+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.779,
+    "ask": 3941.947,
+    "mid": 3941.863,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:42+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.666,
+    "ask": 3941.834,
+    "mid": 3941.75,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:43+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.03,
+    "ask": 3942.198,
+    "mid": 3942.114,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:43+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.087,
+    "ask": 3942.255,
+    "mid": 3942.171,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:43+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.039,
+    "ask": 3942.207,
+    "mid": 3942.123,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:43+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.152,
+    "ask": 3942.32,
+    "mid": 3942.236,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:43+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.103,
+    "ask": 3942.271,
+    "mid": 3942.187,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:44+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.162,
+    "ask": 3942.33,
+    "mid": 3942.246,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:44+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.267,
+    "ask": 3942.435,
+    "mid": 3942.351,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:45+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.131,
+    "ask": 3942.299,
+    "mid": 3942.215,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:45+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.482,
+    "ask": 3942.65,
+    "mid": 3942.566,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:45+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.532,
+    "ask": 3942.7,
+    "mid": 3942.616,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:45+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.476,
+    "ask": 3942.644,
+    "mid": 3942.56,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:46+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.423,
+    "ask": 3942.591,
+    "mid": 3942.507,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:47+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.354,
+    "ask": 3942.522,
+    "mid": 3942.438,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:48+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.412,
+    "ask": 3941.58,
+    "mid": 3941.496,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:48+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.362,
+    "ask": 3941.53,
+    "mid": 3941.446,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:49+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.16,
+    "ask": 3941.328,
+    "mid": 3941.244,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:49+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.306,
+    "ask": 3941.474,
+    "mid": 3941.39,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:49+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.223,
+    "ask": 3941.391,
+    "mid": 3941.307,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.064,
+    "ask": 3941.232,
+    "mid": 3941.148,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.033,
+    "ask": 3941.201,
+    "mid": 3941.117,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.038,
+    "ask": 3941.206,
+    "mid": 3941.122,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.751,
+    "ask": 3941.919,
+    "mid": 3941.835,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.897,
+    "ask": 3942.065,
+    "mid": 3941.981,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.683,
+    "ask": 3941.851,
+    "mid": 3941.767,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.885,
+    "ask": 3942.053,
+    "mid": 3941.969,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:51+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.944,
+    "ask": 3942.112,
+    "mid": 3942.028,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:52+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.889,
+    "ask": 3942.057,
+    "mid": 3941.973,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:52+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.65,
+    "ask": 3941.818,
+    "mid": 3941.734,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:53+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.846,
+    "ask": 3942.014,
+    "mid": 3941.93,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:54+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.907,
+    "ask": 3942.075,
+    "mid": 3941.991,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:54+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.955,
+    "ask": 3942.123,
+    "mid": 3942.039,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:54+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.004,
+    "ask": 3942.172,
+    "mid": 3942.088,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:55+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.99,
+    "ask": 3942.158,
+    "mid": 3942.074,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:56+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.706,
+    "ask": 3941.874,
+    "mid": 3941.79,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:56+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.758,
+    "ask": 3941.926,
+    "mid": 3941.842,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:56+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.566,
+    "ask": 3941.734,
+    "mid": 3941.65,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:57+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.692,
+    "ask": 3941.86,
+    "mid": 3941.776,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:58+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.639,
+    "ask": 3941.807,
+    "mid": 3941.723,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:44:58+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.567,
+    "ask": 3941.735,
+    "mid": 3941.651,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:59+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.558,
+    "ask": 3941.726,
+    "mid": 3941.642,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:44:59+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.354,
+    "ask": 3941.522,
+    "mid": 3941.438,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:00+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.414,
+    "ask": 3941.582,
+    "mid": 3941.498,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:00+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.365,
+    "ask": 3941.533,
+    "mid": 3941.449,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:01+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.421,
+    "ask": 3941.589,
+    "mid": 3941.505,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:01+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.369,
+    "ask": 3941.537,
+    "mid": 3941.453,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:01+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.423,
+    "ask": 3941.591,
+    "mid": 3941.507,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:02+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.438,
+    "ask": 3941.606,
+    "mid": 3941.522,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:03+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.422,
+    "ask": 3941.59,
+    "mid": 3941.506,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:05+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.372,
+    "ask": 3941.54,
+    "mid": 3941.456,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:05+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.389,
+    "ask": 3941.557,
+    "mid": 3941.473,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:06+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.438,
+    "ask": 3941.606,
+    "mid": 3941.522,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:07+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.807,
+    "ask": 3941.975,
+    "mid": 3941.891,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:07+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.908,
+    "ask": 3942.076,
+    "mid": 3941.992,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:07+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3941.965,
+    "ask": 3942.133,
+    "mid": 3942.049,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:07+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.012,
+    "ask": 3942.18,
+    "mid": 3942.096,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:08+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.061,
+    "ask": 3942.229,
+    "mid": 3942.145,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:08+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.294,
+    "ask": 3942.462,
+    "mid": 3942.378,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:08+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.354,
+    "ask": 3942.522,
+    "mid": 3942.438,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:09+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.411,
+    "ask": 3942.579,
+    "mid": 3942.495,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:09+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.201,
+    "ask": 3942.369,
+    "mid": 3942.285,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:10+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.302,
+    "ask": 3942.47,
+    "mid": 3942.386,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:10+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.382,
+    "ask": 3942.55,
+    "mid": 3942.466,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:10+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.332,
+    "ask": 3942.5,
+    "mid": 3942.416,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:11+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.563,
+    "ask": 3942.731,
+    "mid": 3942.647,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:11+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.512,
+    "ask": 3942.68,
+    "mid": 3942.596,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:12+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.506,
+    "ask": 3942.674,
+    "mid": 3942.59,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:13+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.246,
+    "ask": 3942.414,
+    "mid": 3942.33,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:14+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.367,
+    "ask": 3942.535,
+    "mid": 3942.451,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:14+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.256,
+    "ask": 3942.424,
+    "mid": 3942.34,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:14+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.241,
+    "ask": 3942.409,
+    "mid": 3942.325,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:15+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.193,
+    "ask": 3942.361,
+    "mid": 3942.277,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:16+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.198,
+    "ask": 3942.366,
+    "mid": 3942.282,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:17+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.528,
+    "ask": 3942.696,
+    "mid": 3942.612,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:18+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.576,
+    "ask": 3942.744,
+    "mid": 3942.66,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:18+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.641,
+    "ask": 3942.809,
+    "mid": 3942.725,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:19+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.591,
+    "ask": 3942.759,
+    "mid": 3942.675,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:20+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.543,
+    "ask": 3942.711,
+    "mid": 3942.627,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:20+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.117,
+    "ask": 3942.285,
+    "mid": 3942.201,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:20+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.232,
+    "ask": 3942.4,
+    "mid": 3942.316,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:21+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.205,
+    "ask": 3942.373,
+    "mid": 3942.289,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:21+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.254,
+    "ask": 3942.422,
+    "mid": 3942.338,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:21+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.302,
+    "ask": 3942.47,
+    "mid": 3942.386,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:21+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.386,
+    "ask": 3942.554,
+    "mid": 3942.47,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:22+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.506,
+    "ask": 3942.674,
+    "mid": 3942.59,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:23+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.567,
+    "ask": 3942.735,
+    "mid": 3942.651,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:23+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.504,
+    "ask": 3942.672,
+    "mid": 3942.588,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:23+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.435,
+    "ask": 3942.603,
+    "mid": 3942.519,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:23+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.262,
+    "ask": 3942.43,
+    "mid": 3942.346,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:23+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.298,
+    "ask": 3942.466,
+    "mid": 3942.382,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:24+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.393,
+    "ask": 3942.561,
+    "mid": 3942.477,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:24+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.472,
+    "ask": 3942.64,
+    "mid": 3942.556,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:24+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.513,
+    "ask": 3942.681,
+    "mid": 3942.597,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:26+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.499,
+    "ask": 3942.667,
+    "mid": 3942.583,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:27+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.55,
+    "ask": 3942.718,
+    "mid": 3942.634,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:27+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.6,
+    "ask": 3942.768,
+    "mid": 3942.684,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:27+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.343,
+    "ask": 3942.511,
+    "mid": 3942.427,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:27+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.458,
+    "ask": 3942.626,
+    "mid": 3942.542,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:28+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.698,
+    "ask": 3942.866,
+    "mid": 3942.782,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:28+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.642,
+    "ask": 3942.81,
+    "mid": 3942.726,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:28+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.609,
+    "ask": 3942.777,
+    "mid": 3942.693,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:29+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.664,
+    "ask": 3942.832,
+    "mid": 3942.748,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:30+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.506,
+    "ask": 3942.674,
+    "mid": 3942.59,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:30+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.245,
+    "ask": 3942.413,
+    "mid": 3942.329,
+    "spread": 0.16800000000012005,
+    "timestamp": "2026-11-12T08:45:31+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.13,
+    "ask": 3942.298,
+    "mid": 3942.214,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:31+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3942.079,
+    "ask": 3942.247,
+    "mid": 3942.163,
+    "spread": 0.1679999999996653,
+    "timestamp": "2026-11-12T08:45:31+00:00",
+    "source": "MetaTrader 5 (Broker 1)"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3950.0,
+    "ask": 3950.5,
+    "mid": 3950.25,
+    "spread": 0.5,
+    "timestamp": "2026-11-12T08:45:27.842980+00:00",
+    "source": "BiQuote SignalR"
+  },
+  {
+    "symbol": "XAUUSD",
+    "bid": 3965.0,
+    "ask": 3965.5,
+    "mid": 3965.25,
+    "spread": 0.5,
+    "timestamp": "2026-11-12T08:45:27.850402+00:00",
+    "source": "BiQuote SignalR"
+  }
+]
